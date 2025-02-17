@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 
 # Set up OpenAI API Key (replace with your actual key)
-openai.api_key = "your-api-key-here"
+openai.api_key = "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"
 
 # Define Benchmarking Criteria
 benchmark_criteria = {
